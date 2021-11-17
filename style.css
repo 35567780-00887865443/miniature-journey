@@ -1,0 +1,52 @@
+body{
+    text-alignment:center;
+}
+
+#app{
+ width:100%;
+    height:800px;
+    background-color:yellow;
+}
+
+.line{
+  height:6px;
+    background-color:yellow;
+    width:70px;
+    margin:8px auto;
+}
+
+#games{
+    width:100%;
+    height:800px;
+    background-color:aqua:
+}
+
+img{
+    transition:transform .2s;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
+#chatbot{
+    width:100%;
+    height:800px;
+    background-color:blueviolet;
+}
+
+#myCarousel{
+    background-color:red;
+}
+
+#myCarousel img{
+    height:300px;
+    margin-top:35px;
+}
+
+.carousel-inner p{
+    margin-bottom:15px;
+    margin-top:15px;
+    color:white;
+    font-size:20px;
+}
